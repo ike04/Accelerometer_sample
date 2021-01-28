@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accelerometer_sample</string>
+    <string name="start_text">開始！</string>
+    <string name="stop_text">終了！</string>
+</resources>
